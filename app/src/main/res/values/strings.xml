@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FourSquare</string>
+    <string name="title_activity_venues">VenuesActivity</string>
+    <string name="hint_enter_text">Enter text</string>
+    <string name="msg_no_data">No data</string>
+    <string name="msg_check_location">Can not get current location, please enable location</string>
+    <string name="distance_pd_m">%d m</string>
+    <string name="distance_pf_km">%f km</string>
+</resources>
